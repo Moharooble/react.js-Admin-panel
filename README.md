@@ -45,11 +45,11 @@ Follow these steps to set up the project locally:
 
 2. **cd your-repo-name**
    ```bash
-   `cd react.js-Admin-panel`
+   cd react.js-Admin-panel
 
 3. **Install dependencies**
    ```bash
-   `npm install`
+   npm install
 
 
 
@@ -57,7 +57,7 @@ Follow these steps to set up the project locally:
 
 4. **Run the development server**
    ```bash
-   `npm start`
+   npm start
 
 
 
