@@ -44,8 +44,8 @@ Follow these steps to set up the project locally:
    git clone https://github.com/your-username/your-repo-name.git
 
 2. **cd your-repo-name**
-
-`cd your-repo-name`
+  ```bash
+  `cd your-repo-name`
 
 3. **Install dependencies**
 
