@@ -41,21 +41,26 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   https://github.com/Moharooble/react.js-Admin-panel.git
 
 2. **cd your-repo-name**
    ```bash
-   `cd your-repo-name`
+   `cd react.js-Admin-panel`
 
 3. **Install dependencies**
+   ```bash
+   `npm install`
 
-`npm install`
+
+
 
 
 4. **Run the development server**
+   ```bash
+   `npm start`
 
-## `npm start`
+
 
 4. **Open your browser**
 
-`Visit http://localhost:3000 to view the project`
+## `Visit http://localhost:3000 to view the project`
