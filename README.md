@@ -51,14 +51,9 @@ Follow these steps to set up the project locally:
    ```bash
    npm install
 
-
-
-
-
 4. **Run the development server**
    ```bash
    npm start
-
 
 
 4. **Open your browser**
